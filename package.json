@@ -1,0 +1,28 @@
+{
+  "name": "myrestaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "dependencies": {
+    "jest": "^27.4.3",
+    "sequelize": "^6.12.0-alpha.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnujaCode/myrestaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnujaCode/myrestaurant/issues"
+  },
+  "homepage": "https://github.com/AnujaCode/myrestaurant#readme"
+}
